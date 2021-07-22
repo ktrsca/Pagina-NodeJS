@@ -1,0 +1,5 @@
+INSTALLAR LA APLICACION: npx create-router-app frontend
+npm i express
+mpn i react
+npm i react-router-dom
+npm i bootstrap
